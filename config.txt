@@ -1,0 +1,6 @@
+clientToken = TOKEN_HERE
+prefix = .
+suggestions = 604769523639386112
+suggestionsSubmit = 604873987725590548
+emojiLike = 604876349844226060
+emojiDislike = 604876349286645780
